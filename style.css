@@ -1,0 +1,163 @@
+body {
+  overflow-x: hidden;
+  position: relative;
+  padding-bottom: 40px;
+  color: #555555;
+  background-color: #ffffcc;
+  font-family: Caveat Brush, Monospace;
+}
+
+h2 {
+    border-style: solid;
+    border-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-color: #555555;
+}
+
+
+#About {
+   margin-top: 10px;
+   padding-top: 30px;
+   margin-bottom: 50px;
+   color: #ffff00;
+   background-image: url("https://raw.githubusercontent.com/zumartic/FCC_portfolio/master/background.jpg");
+   background-position: right top;
+   background-attachment: fixed;
+   min-height: 500px;
+   Font-size: 150%;
+}
+
+#Portfolio{
+  margin-top: 0px;
+  margin-bottom: 50px;
+  padding-top: 30px;
+}
+
+#contact{
+  margin-top: 0px;
+  padding-top: 30px;
+}
+
+.navbar-brand>img {
+  height: 40px;
+  margin: -10px;
+  padding-bottom: 0px;
+  width: auto;
+}
+.navbar-default {
+    color: #555555;
+    background-color: #ffffcc; /*#F8F8F8;*/
+    border-color: #ffff99; /*#E7E7E7;*/
+}
+
+.navbar-collapse{
+  color: #555555;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #555555;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #ffff99; /*#E7E7E7;*/
+    color: #555555;
+}
+
+.btn-default{
+  color: #555555;
+}
+
+.btn-default:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+.col-sm-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.col-sm-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.col-sm-6 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.col-sm-6 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.social{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.social i {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    color: #555555;
+    font-size: 22px;
+    text-align:center;
+    padding-top: 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #555555;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.fa:hover{
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+  /*background-color: #ffff99;*/
+}
+
+.fa-linkedin:hover{
+  color: white;
+  background: #0077b5;
+}
+
+.fa-github:hover{
+  color: white;
+  background: black;
+}
+
+.fa-codepen:hover{
+  color: white;
+  background: black;
+}
+
+.fa-instagram:hover{
+  color: white;
+  background: #125688;
+}
+
+.fa-fire:hover{
+  color: white;
+  background: green;
+}
+
+footer{
+  margin-right: 10px;
+  margin-bottom: 20px;
+  text-align:right;
+}
+
+footer .fa:hover{
+  -webkit-transform: scale(1.0);
+  -ms-transform: scale(1.0);
+  transform: scale(1.0);
+  color: red;
+}

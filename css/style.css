@@ -1,10 +1,12 @@
 body {
+  margin-left: 10px;
+  margin-right: 10px;
   overflow-x: hidden;
   position: relative;
   padding-bottom: 40px;
   color: #555555;
   background-color: #ffffcc;
-  font-family: Caveat Brush, Monospace;
+  font-family: 'Patrick Hand SC', cursive;
 }
 
 h2 {
@@ -150,7 +152,7 @@ h2 {
 }
 
 footer{
-  margin-right: 10px;
+  
   margin-bottom: 20px;
   text-align:right;
 }

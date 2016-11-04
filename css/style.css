@@ -5,7 +5,7 @@ body {
   position: relative;
   padding-bottom: 40px;
   color: #555555;
-  background-color: #ffffcc;
+  background-color: #EEE8AA;
   font-family: 'Patrick Hand SC', cursive;
 }
 
@@ -49,8 +49,8 @@ h2 {
 }
 .navbar-default {
     color: #555555;
-    background-color: #ffffcc; /*#F8F8F8;*/
-    border-color: #ffff99; /*#E7E7E7;*/
+    background-color: #EEE8AA; /*#F8F8F8;*/
+    border-color: #EEE8AA; /*#E7E7E7;*/
 }
 
 .navbar-collapse{
@@ -73,6 +73,17 @@ h2 {
   -webkit-transform: scale(1.3);
   -ms-transform: scale(1.3);
   transform: scale(1.3);
+}
+
+.img-circle{
+	-webkit-transition: width 1s, height 1s, border-radius 1s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 1s, border-radius 1s;
+}
+
+.img-circle:hover{
+	border-radius:5%;
+	height: 50%;
+	width: 50%;
 }
 
 .col-sm-4 {

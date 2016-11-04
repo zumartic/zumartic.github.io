@@ -7,6 +7,9 @@ body {
   color: #555555;
   background-color: #EEE8AA;
   font-family: 'Patrick Hand SC', cursive;
+   background-image: url("https://raw.githubusercontent.com/zumartic/FCC_portfolio/master/background.jpg");
+   background-position: right top;
+   background-attachment: fixed;
 }
 
 h2 {
@@ -27,9 +30,6 @@ h2 {
    /*margin-bottom: 50px;*/
    color: #ffff00;
    text-shadow: 2px 2px black;
-   background-image: url("https://raw.githubusercontent.com/zumartic/FCC_portfolio/master/background.jpg");
-   background-position: right top;
-   background-attachment: fixed;
    min-height: 500px;
    Font-size: 150%;
 }
@@ -43,16 +43,16 @@ h2 {
    color: #ffff00;
    font-size: 150%;
    text-shadow: 2px 2px black;
-   background-image: url("https://raw.githubusercontent.com/zumartic/FCC_portfolio/master/background.jpg");
-   background-position: right top;
-   background-attachment: fixed;
 }
 
 #contact{
-  margin-top: 0px;
+   margin-top: 0px;
+   margin-bottom: 10px;
+   padding-top: 5px;
    padding-left: 10px;
    padding-right: 10px;
-   
+   background-color: #EEE8AA;
+   background-image: none;
 }
 
 .navbar-brand>img {
@@ -178,8 +178,7 @@ h2 {
 }
 
 footer{
-  
-  margin-bottom: 20px;
+  padding-bottom: 10px;
   text-align:right;
 }
 

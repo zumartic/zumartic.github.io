@@ -1,6 +1,6 @@
 body {
-  margin-left: 10px;
-  margin-right: 10px;
+  /*margin-left: 10px;
+  margin-right: 10px;*/
   overflow-x: hidden;
   position: relative;
   padding-bottom: 40px;
@@ -15,14 +15,18 @@ h2 {
     border-left-width: 0px;
     border-right-width: 0px;
     border-color: #555555;
+	margin-top: 0px;
 }
 
 
 #About {
-   margin-top: 10px;
+   margin-top: 25px;
+   padding-left: 10px;
+   padding-right: 10px;
    padding-top: 30px;
-   margin-bottom: 50px;
+   /*margin-bottom: 50px;*/
    color: #ffff00;
+   text-shadow: 2px 2px black;
    background-image: url("https://raw.githubusercontent.com/zumartic/FCC_portfolio/master/background.jpg");
    background-position: right top;
    background-attachment: fixed;
@@ -31,14 +35,24 @@ h2 {
 }
 
 #Portfolio{
-  margin-top: 0px;
-  margin-bottom: 50px;
-  padding-top: 30px;
+   margin-top: 0px;
+   /*margin-bottom: 50px;
+   padding-top: 30px;*/
+   padding-left: 10px;
+   padding-right: 10px;
+   color: #ffff00;
+   font-size: 150%;
+   text-shadow: 2px 2px black;
+   background-image: url("https://raw.githubusercontent.com/zumartic/FCC_portfolio/master/background.jpg");
+   background-position: right top;
+   background-attachment: fixed;
 }
 
 #contact{
   margin-top: 0px;
-  padding-top: 30px;
+   padding-left: 10px;
+   padding-right: 10px;
+   
 }
 
 .navbar-brand>img {
@@ -67,6 +81,7 @@ h2 {
 
 .btn-default{
   color: #555555;
+  text-shadow: 0px 0px;
 }
 
 .btn-default:hover{

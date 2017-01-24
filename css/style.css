@@ -21,15 +21,15 @@ h2 {
 	margin-top: 0px;
 }
 
-a {
+#About a {
   color: #ffff00;
 }
 
-a:visited {
+#About a:visited {
     color: #ffff00;
 }
 
-a:hover {
+#About a:hover {
   color: #ffff00;
   font-weight: bold;
 }

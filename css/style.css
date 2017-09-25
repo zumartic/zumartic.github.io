@@ -107,7 +107,7 @@ a:visited {
   -webkit-animation: logo-move 1s; 
    animation: logo-move 1s;
   }
-  *
+
 .img-logo2 {
    -webkit-animation: logo-move 2s; 
     animation: logo-move 2s;
@@ -143,10 +143,28 @@ a:visited {
      animation: logo-move 8s;
     }
 
+.img-logo9 {
+  -webkit-animation: logo-move 9s; 
+    animation: logo-move 9s;
+}
+
+.img-logo10 {
+    -webkit-animation: logo-move 10s; 
+      animation: logo-move 10s;
+}
+
+.img-logo11 {
+      -webkit-animation: logo-move 11s; 
+        animation: logo-move 11s;
+}
+
 @keyframes logo-move {
     from {opacity: 0;}
     to {opacity: 1;}
   }
+.portfolio-item {
+  min-height: 150px;
+}
 
 .img-portfolio{
   float: right;

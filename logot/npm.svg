@@ -8,15 +8,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2500"
-   height="2500"
-   viewBox="0 0 256 256"
+   height="977"
+   viewBox="0 0 256 100"
    preserveAspectRatio="xMinYMin meet"
    version="1.1"
-   id="svg5731"
-   sodipodi:docname="javascript.svg"
+   id="svg6"
+   sodipodi:docname="npm.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
-     id="metadata5737">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs5735" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,22 +39,22 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
-     id="namedview5733"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="0.0944"
-     inkscape:cx="111.22879"
-     inkscape:cy="1250"
+     inkscape:zoom="0.15"
+     inkscape:cx="1250"
+     inkscape:cy="488.5"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5731" />
+     inkscape:current-layer="svg6" />
   <path
-     d="M0 0h256v256H0V0z"
-     fill="#F7DF1E"
-     id="path5727"
-     style="stroke:#555555;stroke-opacity:1;stroke-width:2.048;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
-  <path
-     d="M67.312 213.932l19.59-11.856c3.78 6.701 7.218 12.371 15.465 12.371 7.905 0 12.89-3.092 12.89-15.12v-81.798h24.057v82.138c0 24.917-14.606 36.259-35.916 36.259-19.245 0-30.416-9.967-36.087-21.996M152.381 211.354l19.588-11.341c5.157 8.421 11.859 14.607 23.715 14.607 9.969 0 16.325-4.984 16.325-11.858 0-8.248-6.53-11.17-17.528-15.98l-6.013-2.58c-17.357-7.387-28.87-16.667-28.87-36.257 0-18.044 13.747-31.792 35.228-31.792 15.294 0 26.292 5.328 34.196 19.247L210.29 147.43c-4.125-7.389-8.591-10.31-15.465-10.31-7.046 0-11.514 4.468-11.514 10.31 0 7.217 4.468 10.14 14.778 14.608l6.014 2.577c20.45 8.765 31.963 17.7 31.963 37.804 0 21.654-17.012 33.51-39.867 33.51-22.339 0-36.774-10.654-43.819-24.574"
-     id="path5729"
+     d="M0 0v85.498h71.166V99.83H128V85.498h128V0H0z"
+     fill="#CB3837"
+     id="path2"
      style="fill:#555555;fill-opacity:1" />
+  <path
+     d="M42.502 14.332h-28.17v56.834h28.17V28.664h14.332v42.502h14.332V14.332H42.502zM85.498 14.332v71.166h28.664V71.166h28.17V14.332H85.498zM128 56.834h-13.838v-28.17H128v28.17zM184.834 14.332h-28.17v56.834h28.17V28.664h14.332v42.502h14.332V28.664h14.332v42.502h14.332V14.332h-57.328z"
+     fill="#FFF"
+     id="path4" />
 </svg>

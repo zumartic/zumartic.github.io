@@ -158,6 +158,11 @@ a:visited {
         animation: logo-move 11s;
 }
 
+.img-logo12 {
+  -webkit-animation: logo-move 12s; 
+    animation: logo-move 12s;
+}
+
 @keyframes logo-move {
     from {opacity: 0;}
     to {opacity: 1;}
